@@ -1,6 +1,6 @@
 ### Hi there internet👋
 
-####My name is Karen and I'm a proud graduate of the Software Engineering FLEX program at General Assembly.
+My name is Karen and I'm a proud graduate of the Software Engineering FLEX program at General Assembly.
 
 <!--
 **kayfernander2022/kayfernander2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
